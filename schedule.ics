@@ -1,0 +1,368 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:FullStack
+X-WR-CALNAME:FullStack
+BEGIN:VEVENT
+UID:4vi4@undefined
+SEQUENCE:0
+DTSTAMP:20190903T223947Z
+DTSTART:20190904T060000Z
+DTEND:20190904T071500Z
+SUMMARY:🎟 Registration & ☕️ coffee
+END:VEVENT
+BEGIN:VEVENT
+UID:qw5o@undefined
+SEQUENCE:0
+DTSTAMP:20190903T223947Z
+DTSTART:20190904T073000Z
+DTEND:20190904T074500Z
+SUMMARY:Welcome!
+END:VEVENT
+BEGIN:VEVENT
+UID:kkjr@undefined
+SEQUENCE:0
+DTSTAMP:20190903T223947Z
+DTSTART:20190904T074500Z
+DTEND:20190904T082500Z
+SUMMARY:We're gunna program like it's 1999 by Lee Byron
+DESCRIPTION:The mental model for building for the web largely hasn’t chang
+ ed in the last 20 years\, but we’ve incorporated complexity\, richness\, g
+ rown our community a thousand fold\, and scaled to billions. This year the
+  web turns 30\, and we look back at the steady march forward of better abs
+ tractions\, better syntax\, and better mental models that brought us here.
+URL;VALUE=URI:https://2019.fullstackfest.com/speakers/lee-byron
+END:VEVENT
+BEGIN:VEVENT
+UID:i6yp@undefined
+SEQUENCE:0
+DTSTAMP:20190903T223947Z
+DTSTART:20190904T082500Z
+DTEND:20190904T091000Z
+SUMMARY:Talk TBA. Topic: Building tools for web developers by Ashley Willi
+ ams
+URL;VALUE=URI:https://2019.fullstackfest.com/speakers/ashley-williams
+END:VEVENT
+BEGIN:VEVENT
+UID:gn7h@undefined
+SEQUENCE:0
+DTSTAMP:20190903T223947Z
+DTSTART:20190904T091000Z
+DTEND:20190904T094000Z
+SUMMARY:🍌 Break
+END:VEVENT
+BEGIN:VEVENT
+UID:n6l0@undefined
+SEQUENCE:0
+DTSTAMP:20190903T223947Z
+DTSTART:20190904T094000Z
+DTEND:20190904T102000Z
+SUMMARY:Spreading the JAM throughout your CI workflow by Brian Douglas
+DESCRIPTION:The JAMStack is empowering the Microservice and distributed ar
+ chitectures in ways that we had not previously conceived. Join Brian in wa
+ lking through how you can leverage this new tool in creating action packed
+  workflows to supercharge your repos on GitHub by building your containers
+  to run arbitrary code\, publish packages to registries\, and even automat
+ e welcoming new users to your projects.
+URL;VALUE=URI:https://2019.fullstackfest.com/speakers/brian-douglas
+END:VEVENT
+BEGIN:VEVENT
+UID:e1dm@undefined
+SEQUENCE:0
+DTSTAMP:20190903T223947Z
+DTSTART:20190904T102000Z
+DTEND:20190904T110000Z
+SUMMARY:How to build a social network entirely on serverless by Yan Cui
+DESCRIPTION:In this talk\, Yan will discuss the strategies he employed in 
+ migrating a social network\, Yubl\, from a monolith to serverless: How to 
+ identify service boundaries\, and migrate features off the monolith withou
+ t downtime\, implementing search\, user recommendation\, news feeds\, push
+  notifications\, business intelligence and so on.
+URL;VALUE=URI:https://2019.fullstackfest.com/speakers/yan-cui
+END:VEVENT
+BEGIN:VEVENT
+UID:kmmr@undefined
+SEQUENCE:0
+DTSTAMP:20190903T223947Z
+DTSTART:20190904T110000Z
+DTEND:20190904T123000Z
+SUMMARY:🌮 Lunch
+END:VEVENT
+BEGIN:VEVENT
+UID:5cpq@undefined
+SEQUENCE:0
+DTSTAMP:20190903T223947Z
+DTSTART:20190904T123000Z
+DTEND:20190904T131000Z
+SUMMARY:A programming language for a continuous delivery world. by Ellen C
+ hisa
+DESCRIPTION:What would it look like to build a modern language so we could
+  still code live\, but do it safely?
+URL;VALUE=URI:https://2019.fullstackfest.com/speakers/ellen-chisa
+END:VEVENT
+BEGIN:VEVENT
+UID:sj8t@undefined
+SEQUENCE:0
+DTSTAMP:20190903T223947Z
+DTSTART:20190904T131000Z
+DTEND:20190904T135000Z
+SUMMARY:Applied Accessibility: Practical Tips for Building More Accessible
+  Front-Ends by Sara Soueidan
+URL;VALUE=URI:https://2019.fullstackfest.com/speakers/sara-soueidan
+END:VEVENT
+BEGIN:VEVENT
+UID:8zw8@undefined
+SEQUENCE:0
+DTSTAMP:20190903T223947Z
+DTSTART:20190904T135000Z
+DTEND:20190904T140000Z
+SUMMARY:First day closing
+END:VEVENT
+BEGIN:VEVENT
+UID:3wrn@undefined
+SEQUENCE:0
+DTSTAMP:20190903T223947Z
+DTSTART:20190904T150000Z
+DTEND:20190904T180000Z
+SUMMARY:👥 Get Together
+END:VEVENT
+BEGIN:VEVENT
+UID:3noe@undefined
+SEQUENCE:0
+DTSTAMP:20190903T223947Z
+DTSTART:20190905T070000Z
+DTEND:20190905T072500Z
+SUMMARY:☕️ Coffee
+END:VEVENT
+BEGIN:VEVENT
+UID:c62o@undefined
+SEQUENCE:0
+DTSTAMP:20190903T223947Z
+DTSTART:20190905T073000Z
+DTEND:20190905T074500Z
+SUMMARY:Welcome!
+END:VEVENT
+BEGIN:VEVENT
+UID:qmm4@undefined
+SEQUENCE:0
+DTSTAMP:20190903T223947Z
+DTSTART:20190905T074500Z
+DTEND:20190905T082500Z
+SUMMARY:CSS Houdini Today by Una Kravets
+URL;VALUE=URI:https://2019.fullstackfest.com/speakers/una-kravets
+END:VEVENT
+BEGIN:VEVENT
+UID:nfnx@undefined
+SEQUENCE:0
+DTSTAMP:20190903T223947Z
+DTSTART:20190905T082500Z
+DTEND:20190905T091000Z
+SUMMARY:Your Tests Lack Vision: Adding Eyes to Your Automation Framework b
+ y Angie Jones
+DESCRIPTION:In this talk\, you'll learn how visual validation works\, see 
+ a live integration into an existing test code base\, and discuss the pros 
+ and cons of using various visual validation techniques.
+URL;VALUE=URI:https://2019.fullstackfest.com/speakers/angie-jones
+END:VEVENT
+BEGIN:VEVENT
+UID:0exw@undefined
+SEQUENCE:0
+DTSTAMP:20190903T223947Z
+DTSTART:20190905T091000Z
+DTEND:20190905T094000Z
+SUMMARY:🍇 Break
+END:VEVENT
+BEGIN:VEVENT
+UID:9hs8@undefined
+SEQUENCE:0
+DTSTAMP:20190903T223947Z
+DTSTART:20190905T094000Z
+DTEND:20190905T102000Z
+SUMMARY:Why p2p deserves another chance by Paul Frazee
+DESCRIPTION:May of us remember peer-to-peer networking from the days of Na
+ pster\, file-sharing\, and Metallica lawsuits. Was that all that p2p was g
+ ood for? What if we used it to host Websites instead? In this talk\, we'll
+  look at how p2p can be applied to the Web and what benefits we can gain f
+ rom it: from sharing costs\, to data privacy\, to open source\, and beyond
+ .
+URL;VALUE=URI:https://2019.fullstackfest.com/speakers/paul-frazee
+END:VEVENT
+BEGIN:VEVENT
+UID:6xuk@undefined
+SEQUENCE:0
+DTSTAMP:20190903T223947Z
+DTSTART:20190905T102000Z
+DTEND:20190905T110000Z
+SUMMARY:Bringing WebAssembly outside the web with WASI by Lin Clark
+DESCRIPTION:The appearance of WASI has taken the web by storm. As Solomon 
+ Hykes\, co-founder of Docker\, said\, \"If WASM+WASI existed in 2008\, we 
+ wouldn't have needed to create Docker. That's how important it is. Webasse
+ mbly on the server is the future of computing.\"
+URL;VALUE=URI:https://2019.fullstackfest.com/speakers/lin-clark
+END:VEVENT
+BEGIN:VEVENT
+UID:jbg8@undefined
+SEQUENCE:0
+DTSTAMP:20190903T223947Z
+DTSTART:20190905T110000Z
+DTEND:20190905T123000Z
+SUMMARY:🌮 Lunch
+END:VEVENT
+BEGIN:VEVENT
+UID:4t43@undefined
+SEQUENCE:0
+DTSTAMP:20190903T223947Z
+DTSTART:20190905T123000Z
+DTEND:20190905T131000Z
+SUMMARY:(Programming Languages) in Agda = Programming (Languages in Agda) 
+ by Philip Wadler
+DESCRIPTION:Join Philip in his introduction of the Agda Programming langua
+ ge\, while he explains the most profound connection between logic and comp
+ utation\, which is purely a pun.
+URL;VALUE=URI:https://2019.fullstackfest.com/speakers/philip-wadler
+END:VEVENT
+BEGIN:VEVENT
+UID:k6f3@undefined
+SEQUENCE:0
+DTSTAMP:20190903T223947Z
+DTSTART:20190905T131000Z
+DTEND:20190905T135000Z
+SUMMARY:The Future of Web Animation by Sarah Drasner
+DESCRIPTION:We talk a lot about how to animate on the web\, and what’s pos
+ sible in browsers today\, but where is animation heading? In this talk\, w
+ e'll find the intersection of health and animation with biofeedback sensor
+ s and Vue\, the future of 3d in the browser complete with interviews with 
+ people who are writing these specs.
+URL;VALUE=URI:https://2019.fullstackfest.com/speakers/sarah-drasner
+END:VEVENT
+BEGIN:VEVENT
+UID:67hc@undefined
+SEQUENCE:0
+DTSTAMP:20190903T223947Z
+DTSTART:20190905T135000Z
+DTEND:20190905T140000Z
+SUMMARY:Second day closing
+END:VEVENT
+BEGIN:VEVENT
+UID:042z@undefined
+SEQUENCE:0
+DTSTAMP:20190903T223947Z
+DTSTART:20190905T160000Z
+DTEND:20190905T200000Z
+SUMMARY:🏖 Beach Party 🎉
+END:VEVENT
+BEGIN:VEVENT
+UID:ixws@undefined
+SEQUENCE:0
+DTSTAMP:20190903T223947Z
+DTSTART:20190906T070000Z
+DTEND:20190906T072500Z
+SUMMARY:☕️ Coffee
+END:VEVENT
+BEGIN:VEVENT
+UID:rvc6@undefined
+SEQUENCE:0
+DTSTAMP:20190903T223947Z
+DTSTART:20190906T073000Z
+DTEND:20190906T074500Z
+SUMMARY:Welcome!
+END:VEVENT
+BEGIN:VEVENT
+UID:z4ad@undefined
+SEQUENCE:0
+DTSTAMP:20190903T223947Z
+DTSTART:20190906T074500Z
+DTEND:20190906T082500Z
+SUMMARY:It’s Probably Fine by Cate Huston
+DESCRIPTION:What's the difference between a functional team and a failing 
+ team? How do we make a failing team functional\, and a functional team gre
+ at? Let's talk about layers of communication\, why outcomes are more impor
+ tant than process\, and how to figure out where to begin - and whether you
+  should.
+URL;VALUE=URI:https://2019.fullstackfest.com/speakers/cate-huston
+END:VEVENT
+BEGIN:VEVENT
+UID:xzne@undefined
+SEQUENCE:0
+DTSTAMP:20190903T223947Z
+DTSTART:20190906T082500Z
+DTEND:20190906T091000Z
+SUMMARY:Breaking [not so] Bad: What's new in webpack 5 and how you can pre
+ pare!! by Sean Larkin
+DESCRIPTION:Sean will talk about what amazing features are in store for we
+ bpack 5\, the rational behind its breaking changes\, and how you can prepa
+ re for upgrading from 4 to 5.
+URL;VALUE=URI:https://2019.fullstackfest.com/speakers/sean-larkin
+END:VEVENT
+BEGIN:VEVENT
+UID:anto@undefined
+SEQUENCE:0
+DTSTAMP:20190903T223947Z
+DTSTART:20190906T091000Z
+DTEND:20190906T094000Z
+SUMMARY:🥝 Break
+END:VEVENT
+BEGIN:VEVENT
+UID:zmo7@undefined
+SEQUENCE:0
+DTSTAMP:20190903T223947Z
+DTSTART:20190906T094000Z
+DTEND:20190906T102000Z
+SUMMARY:HTTP/3 - HTTP over QUIC is the next generation by Daniel Stenberg
+DESCRIPTION:HTTP/3 is the designated name for the coming next version of t
+ he protocol that is currently under development within the QUIC working gr
+ oup in the IETF. Learn how HTTP/3 improve upon HTTP/2 and how that's relev
+ ant today.
+URL;VALUE=URI:https://2019.fullstackfest.com/speakers/daniel-stenberg
+END:VEVENT
+BEGIN:VEVENT
+UID:mr53@undefined
+SEQUENCE:0
+DTSTAMP:20190903T223947Z
+DTSTART:20190906T102000Z
+DTEND:20190906T110000Z
+SUMMARY:Rust\, WebAssembly\, and the future of Serverless by Steve Klabnik
+DESCRIPTION:A lot of things have been said about WebAssembly inside of the
+  browser\; after all\, that's why it was originally created. But a new cas
+ e is emerging as well\, and that's WebAssembly on the server. More specifi
+ cally\, we're seeing a rise of support for WebAssembly in serverless appli
+ cation platforms\, combining two brand-new technologies together. We're al
+ so seeing a lot of growth of the Rust programming language\, and its close
+  alignment with WebAssembly. In this talk\, Steve will talk about Rust\, W
+ ebAssembly\, serverless technologies\, and how it all fits together.
+URL;VALUE=URI:https://2019.fullstackfest.com/speakers/steve-klabnik
+END:VEVENT
+BEGIN:VEVENT
+UID:w1xu@undefined
+SEQUENCE:0
+DTSTAMP:20190903T223947Z
+DTSTART:20190906T110000Z
+DTEND:20190906T123000Z
+SUMMARY:🌮 Lunch
+END:VEVENT
+BEGIN:VEVENT
+UID:v04t@undefined
+SEQUENCE:0
+DTSTAMP:20190903T223947Z
+DTSTART:20190906T123000Z
+DTEND:20190906T131000Z
+SUMMARY:⚡️ Lightning Talks
+END:VEVENT
+BEGIN:VEVENT
+UID:8iba@undefined
+SEQUENCE:0
+DTSTAMP:20190903T223947Z
+DTSTART:20190906T131000Z
+DTEND:20190906T135000Z
+SUMMARY:Closing talk by Sara Vieira
+URL;VALUE=URI:https://2019.fullstackfest.com/speakers/sara-vieira
+END:VEVENT
+BEGIN:VEVENT
+UID:7iou@undefined
+SEQUENCE:0
+DTSTAMP:20190903T223947Z
+DTSTART:20190906T140000Z
+DTEND:20190906T153000Z
+SUMMARY:👋 Farewell with friends
+END:VEVENT
+END:VCALENDAR
